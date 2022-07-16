@@ -1,0 +1,124 @@
+{
+    "basics": {
+        "name": "Mahendra khichar",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2049@iiitkota.ac.in",
+        "phone": "+919509637807",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in electronics and communication engineering.",
+        "location": {
+            "address": "didwana",
+            "postalCode": "341318",
+            "city": "didwana",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+           
+            {
+                "network": "Github",
+                "username": "mahendrakhichar",
+                "url": "https://www.github.com/mahendrakhichar"
+            },
+            {
+                "network": "linkedin",
+                "username": "mahendrakhichar",
+                "url": "https://www.linkedin.com/in/mahendrakhichar/"
+            },
+            {
+                "network": "Instagram",
+                "username": "mahendra_khichar_11",
+                "url": "https://instagram.com/mahendra_khichar_11"
+            }
+        ]
+    },
+   
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (tech)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "electronics and communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+
+        },
+        {
+            "language": "hindi",
+            "fluency": "Native speaker"
+
+        }
+    ],
+    "interests": [
+        {
+            "name": "sports",
+            "keywords": [
+                "Badminton"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "kabbadi",
+                "Badminton"
+            ]
+        }
+    ]
+}
